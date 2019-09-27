@@ -5,7 +5,11 @@ Information about the upcoming U.S. Bank – Minnesota College Hack to Track: *S
 Friday, October 4 - Saturday October 5
 
 ### Location
-Minneapolis College
+Minneapolis College (T Building – Plaza Area)
+
+1501 Hennepin Avenue S, Minneapolis, MN 55403 
+
+Event will take place in the plaza area.
 
 
 ### Challenge
