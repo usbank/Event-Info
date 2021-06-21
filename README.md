@@ -7,7 +7,7 @@ Thursday July 8th - Friday July 9th
 
 ### Location
 
-Event will be virtual hosted on a Webex link provided in the emails send from the registration site.
+Event will be virtually hosted on a Webex link provided in the emails sent from the registration site.
 
 
 ### Challenge
