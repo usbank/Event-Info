@@ -1,21 +1,27 @@
 ## Event-Info
-Information about the upcoming U.S. Bank – Minnesota College Hack to Track: *Saving $$$ Bit by Bit Hackathon*
+Information about the upcoming U.S. Bank *Yackety Hack, Gets Caa$sh Fast Hackathon*
 
 ### Dates
-Friday, October 4 - Saturday October 5
+Thursday July 8th - Friday July 9th
+
 
 ### Location
-Minneapolis College (T Building – Plaza Area)
 
-1501 Hennepin Avenue S, Minneapolis, MN 55403 
-
-Event will take place in the plaza area.
+Event will be virtual hosted on a Webex link provided in the emails send from the registration site.
 
 
 ### Challenge
-Today many people struggle with managing and saving money.  Let's face it - saving isn't always fun, and the word ‘budget’ makes most people cringe! For this hackathon, we would like you to create solutions *to help students easily manage their finances so that they feel more successful saving and planning for the future*.
+Build an app or experience using various U.S. Bank Payment APIs to virtualize the payment experience for consumers, clients or employees.
 
-Using U.S. Bank API's along with other third party API's, build an innovative solution to help college students better manage their money while in school. Use your creativity, but remember, "simplicity is the key to success" to a time-crunched student.
+Solution examples, but not limited to:
+
+- Use a virtual credit card to send a refund to a customer’s digital wallet (e.g. Apple Pay)
+
+- Send a virtual credit card to an employee for immediate use in a travel emergency
+
+- Enable a corporation to reimburse a supplier or pay a remote contractor
+
+- Push a virtual credit card to a gig worker enabling them to pay for and document delivery of an order
 
 ### Judging Criteria
 - **Simplicity** (5 points): Is the application simple to use and can the team explain it clearly in three sentences or less?
