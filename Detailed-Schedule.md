@@ -2,7 +2,7 @@
 
 (*All times in EDT*)
 
-### Day One Agenda - Thursday July 8th
+### Day One Agenda - Thursday August 5th
 
 | Time Slot | Agenda Item |
 | ------------------ | ---------------------------- |
@@ -16,7 +16,7 @@
 | 12:30 am | Day One complete |
 
 
-### Day Two Agenda - Friday July 9th
+### Day Two Agenda - Friday August 6th
 
 | Time Slot | Agenda Item |
 | ------------------ | ---------------------------- |
