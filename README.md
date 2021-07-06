@@ -2,7 +2,7 @@
 Information about the upcoming U.S. Bank *Yackety Hack, Gets Caa$sh Fast Hackathon*
 
 ### Dates
-Thursday August 5th - Friday August 6th
+Thursday August 19th - Friday August 20th
 
 
 ### Location
